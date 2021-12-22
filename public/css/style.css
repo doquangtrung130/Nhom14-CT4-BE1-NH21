@@ -1,0 +1,25 @@
+.logo img {
+    height: 33px;
+}
+
+.single-products img {
+    height: 225px;
+}
+
+.single-products p {
+    padding: 25px 0px;
+    height: 60px;
+}
+
+.single-products p a {
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.footer-main {
+    padding-top: 50px;
+}
